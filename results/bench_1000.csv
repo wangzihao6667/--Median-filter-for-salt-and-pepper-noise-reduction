@@ -1,0 +1,4 @@
+timestamp,run_id,gpu,mode,count,width,height,noise,kernel,repeat,h2d_ms,noise_ms,median_ms,kernel_ms,stats_ms,d2h_ms,gpu_total_ms,wall_ms,images_per_sec,psnr_noisy_avg,psnr_filtered_avg,psnr_filtered_min,noise_actual_avg
+1792227114,run,NVIDIA GeForce RTX 4060 Laptop GPU,fused,1000,640,640,0.0500,3,1,102.6380,0.0000,0.0000,30.4341,48.3574,192.7735,374.2030,435.2624,2297.4647,17.8094,34.3134,23.6263,0.0497
+1792227115,run,NVIDIA GeForce RTX 4060 Laptop GPU,fused,1000,640,640,0.0500,3,2,103.3510,0.0000,0.0000,30.5967,47.4676,192.6324,374.0477,435.7112,2295.0982,17.8094,34.3134,23.6263,0.0497
+1792227115,run,NVIDIA GeForce RTX 4060 Laptop GPU,fused,1000,640,640,0.0500,3,3,102.5408,0.0000,0.0000,30.6001,47.4081,199.8421,380.3911,442.9253,2257.7170,17.8094,34.3134,23.6263,0.0497
